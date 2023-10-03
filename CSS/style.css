@@ -571,7 +571,7 @@ footer .box4 .photos img {
   transform: translatey(-50%);
 }
 .banner-about {
-  background-image: url(/images/banner.webp);
+  background-image: url(../images/banner.webp);
 }
 .info {
   display: flex;
